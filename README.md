@@ -1,85 +1,82 @@
 <div align="center">
 
-# <img src="https://web.archive.org/web/19990504112211im_/http://www.google.com/google.gif" alt="Google 2000" width="300" />
+# <img src="https://web.archive.org/web/19990504112211im_/http://www.google.com/google.gif" alt="Google 2000" width="350" />
 
-<table border="0" cellpadding="10">
-<tr>
-<td align="center">
-<font size="3">Pesquise no portfólio de <b>Wenderson Dias</b></font><br><br>
-<form>
-<input type="text" size="45" value="Low-Level Software Developer" style="border: 1px solid #7B9EBD;"><br><br>
-<input type="button" value="Pesquisa Google"> &nbsp; <input type="button" value="Estou com sorte">
-</form>
-</td>
-</tr>
-</table>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9pZ3p6NnB5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxxcaOshbmw/giphy.gif" width="100%" height="20px">
 
-<table border="0" width="80%" cellspacing="0" cellpadding="2" bgcolor="#3366CC">
-<tr>
-<td>
-<table border="0" width="100%" cellspacing="0" cellpadding="5" bgcolor="#FFFFFF">
-<tr>
-<td align="center">
-<font size="2">
-<a href="#">Sobre o Wenderson</a> | 
-<a href="https://github.com/zWendersonBR">Repositórios</a> | 
-<a href="https://github.com/zWendersonBR/genesis-winux-shell">Genesis Winux Shell</a> | 
-<a href="#">Contato</a>
-</font>
-</td>
-</tr>
-</table>
-</td>
-</tr>
+### 💾 <font color="red">BEM-VINDO AO TERMINAL DE WENDERSON DIAS</font> 💾
+
+<table border="0" cellpadding="10" bgcolor="#000000">
+  <tr>
+    <td>
+      <font color="#00FF00" face="Courier New">
+        > SYSTEM: LOW-LEVEL DEVELOPER FOUND... <br>
+        > EXPERTISE: C# / C++ / SYSTEMS <br>
+        > STATUS: DEVELOPING GENESIS WINUX SHELL... <br>
+        > LOCATION: BRAZIL [BR]
+      </font>
+    </td>
+  </tr>
 </table>
 
 <br>
 
-<table border="0" width="85%">
-<tr>
-<td width="50%" valign="top">
-<b><font color="#CC0000">SISTEMAS OPERACIONAIS & LOW-LEVEL</font></b><br>
-<font size="2">
-• C / C++ / C# Specialist<br>
-• Systems Programming & WinAPI<br>
-• Linux Kernel Enthusiast<br>
-• Network Infrastructure (Huawei/TP-Link)
-</font>
-</td>
-<td width="50%" valign="top">
-<b><font color="#CC0000">ESTATÍSTICAS DA WEB</font></b><br>
-<img src="https://github-readme-stats.vercel.app/api?username=zwendersonbr&show_icons=true&theme=classic&hide_border=true" width="280">
-</td>
-</tr>
-</table>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRscW5oZmxoNnB5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTfuxV5N2k9rXy/giphy.gif" width="120" />
 
-<br>
+---
 
-<table border="1" width="85%" bordercolor="#CCCCCC" cellspacing="0" cellpadding="10">
-<tr>
-<td align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGYyeGN5bmR6NnB5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="80" />
-<br>
-<b><font size="2">STATUS DO SERVIDOR: ONLINE</font></b><br>
-<font size="1">Trabalhando atualmente no Genesis Winux Shell...</font>
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXN6MHZueWJ0NXN6MHZueWJ0NXN6MHZueWJ0NXN6MHZueWJ0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/10vXv6P5P4NJK/giphy.gif" width="150" />
-
-<br>
+### 📂 <font color="blue">MEUS DIRETÓRIOS (PROJECTS)</font>
 
 <p>
-<img src="https://img.shields.io/badge/Best_viewed_in-Internet_Explorer-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Resolution-800x600-orange?style=flat-square" />
+  <img src="https://web.archive.org/web/20090830064149/http://geocities.com/Hollywood/Hills/2726/computer.gif" width="30"> 
+  <b>[Genesis Winux Shell]</b> - <i>The future of CLI</i>
+</p>
+<p>
+  <img src="https://web.archive.org/web/20090830064149/http://geocities.com/Hollywood/Hills/2726/computer.gif" width="30"> 
+  <b>[Aether Network]</b> - <i>Cloud & Security</i>
 </p>
 
-<font size="1" face="Arial">
-&copy;2000 Google Inc. - Wenderson Dias Portfolio v1.0 <br>
-<img src="https://profile-counter.glitch.me/zwendersonbr/count.svg" alt="Visitor Counter" />
-</font>
+---
+
+### 🛠️ <font color="green">FERRAMENTAS & LINGUAGENS</font>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9pZ3p6NnB5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/Lp8as98D105bYqDPCZ/giphy.gif" width="50" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRscW5oZmxoNnB5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="50" />
+</p>
+
+---
+
+### 📊 <font color="purple">ESTATÍSTICAS RETRÔ</font>
+
+<img src="https://github-readme-stats.vercel.app/api?username=zwendersonbr&show_icons=true&theme=radical&hide_border=false" />
+
+<br>
+
+<img src="https://web.archive.org/web/20090804113154/http://geocities.com/Heartland/Acres/1820/main/construction.gif" width="150" />
+<br>
+<font size="2"><b>ESTE SITE ESTÁ EM CONSTRUÇÃO PERMANENTE!</b></font>
+
+---
+
+### 📟 <font color="orange">CONTATO / VISITANTES</font>
+
+<p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRscW5oZmxoNnB5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxxcaOshbmw/giphy.gif" width="30" />
+  <b>Email:</b> <a href="mailto:seuemail@aqui.com">Mande um e-mail</a>
+</p>
+
+<img src="https://profile-counter.glitch.me/zwendersonbr/count.svg" />
+
+<br>
+
+<img src="https://web.archive.org/web/20091027005003/http://geocities.com/Athens/Aegean/9257/netscape.gif" width="100" />
+<img src="https://web.archive.org/web/20091027005003/http://geocities.com/Athens/Aegean/9257/ie.gif" width="100" />
+
+<br>
+<font size="1">Optimized for 800x600 resolution | © 2000 Google Search Console</font>
 
 </div>
