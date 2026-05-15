@@ -1,89 +1,73 @@
 <div align="center">
 
-![Header](https://media.giphy.com/media/3o7btPCcdH2hK0g0y4/giphy.gif)
+<h1 style="color: #00FF41; font-family: monospace; letter-spacing: 4px;">
+  WENDERSON
+</h1>
 
-# **WENDERSON**  
-**Codename: LOW-LEVEL GHOST** ⚡
+<p style="color: #00CC33; font-family: monospace; font-size: 18px; letter-spacing: 2px;">
+  CODENAME: <strong>GHOST-01</strong><br>
+  SPECIAL OPERATIONS • LOW LEVEL COMMAND
+</p>
 
-**OPERATIONAL CLEARANCE: LEVEL 7**  
-**Special Operations | Systems Command**
+<hr style="border: 1px solid #003300;">
+</div>
 
-![Matrix](https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif)
+<h2 style="color: #00FF41; font-family: monospace;">SITREP</h2>
+
+<p style="color: #CCCCCC; font-family: monospace;">
+Sou desenvolvedor especializado em sistemas de baixo nível e segurança crítica. 
+Atuo na criação de soluções robustas, desde o hardware até arquiteturas completas de software.
+</p>
+
+<h2 style="color: #00FF41; font-family: monospace;">ARSENAL TÉCNICO</h2>
+
+<table style="width:100%; border-collapse: collapse; color: #CCCCCC; font-family: monospace;">
+  <tr style="border-bottom: 1px solid #003300;">
+    <td style="padding: 12px 0; color: #00CC33;"><strong>▶</strong> Linguagens</td>
+    <td style="padding: 12px 0;">C • C++ • Assembly (x86 / x64)</td>
+  </tr>
+  <tr style="border-bottom: 1px solid #003300;">
+    <td style="padding: 12px 0; color: #00CC33;"><strong>▶</strong> Bancos de Dados</td>
+    <td style="padding: 12px 0;">MySQL • SQL Avançado (Performance & Hardening)</td>
+  </tr>
+  <tr style="border-bottom: 1px solid #003300;">
+    <td style="padding: 12px 0; color: #00CC33;"><strong>▶</strong> Infraestrutura</td>
+    <td style="padding: 12px 0;">Ubuntu Server • Debian (Hardened)</td>
+  </tr>
+  <tr style="border-bottom: 1px solid #003300;">
+    <td style="padding: 12px 0; color: #00CC33;"><strong>▶</strong> Hardware & Low Level</td>
+    <td style="padding: 12px 0;">BIOS Modding • Reverse Engineering • Systems Optimization</td>
+  </tr>
+</table>
+
+<h2 style="color: #00FF41; font-family: monospace;">CAPACIDADES OPERACIONAIS</h2>
+
+<ul style="color: #CCCCCC; font-family: monospace; line-height: 1.8;">
+  <li>▶ Desenvolvimento de Sistemas Operacionais customizados (bootloader ao kernel)</li>
+  <li>▶ Sistemas corporativos com segurança de alto nível</li>
+  <li>▶ Arquitetura e otimização extrema de bancos de dados</li>
+  <li>▶ Hardening completo de servidores e estações</li>
+  <li>▶ Modificações avançadas de BIOS e hardware</li>
+</ul>
+
+<h2 style="color: #00FF41; font-family: monospace;">OPERAÇÕES ATIVAS</h2>
+
+<div style="background-color: #001a00; padding: 20px; border-left: 4px solid #00FF41; font-family: monospace; color: #CCCCCC;">
+  <strong>PROJECT SHADOWKERNEL</strong> — Sistema operacional custom<br>
+  <strong>OPERATION FORTRESS</strong> — Plataformas seguras corporativas<br>
+  <strong>PROJECT IRONHARD</strong> — Modificações avançadas de hardware<br>
+  <strong>DATABASE PHALANX</strong> — Arquiteturas MySQL resilientes
+</div>
+
+<hr style="border: 1px solid #003300;">
+
+<div align="center" style="font-family: monospace; color: #00CC33;">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=00FF41&color=003300)](https://github.com/SEU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white&color=003300)](https://linkedin.com/in/SEU_USUARIO)
 
 </div>
 
----
-
-### **SITREP** 🛡️
-
-Sou **Wenderson**, operador de elite em desenvolvimento low-level.  
-Especializado em sistemas críticos, segurança ofensiva/defensiva e engenharia direta no hardware.
-
-**Missão:** Construir sistemas que o inimigo **não consegue** penetrar.
-
----
-
-### **ARSENAL TÉCNICO** 🎯
-
-<div align="center">
-
-![Terminal](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
+<div align="center" style="margin-top: 40px; color: #004d00; font-family: monospace; font-size: 13px;">
+  READY • DEPLOYED • SECURE
 </div>
-
-**🔻 ARMAMENTO PRIMÁRIO**
-- **C | C++** — Precisão cirúrgica em memória e performance
-- **Assembly (x86/x64)** — Falo diretamente com o silício
-- **MySQL / SQL** — Bancos de dados blindados e otimizados para guerra
-- **Ubuntu Server | Debian** — Infraestrutura endurecida em campo
-
-**🔻 CAPACIDADES ESPECIAIS**
-- BIOS Modding & Hardware Reverse Engineering
-- Criação de Sistemas Operacionais customizados (do bootloader ao kernel)
-- Desenvolvimento de sistemas corporativos com **segurança nível militar**
-- Hardening extremo de servidores e estações de trabalho
-- Otimização de performance em nível de ciclo de clock
-
----
-
-### **OPERAÇÕES EM ANDAMENTO** 📡
-
-- **PROJECT SHADOWKERNEL** — Sistema operacional customizado (em desenvolvimento)
-- **OPERATION FORTRESS** — Plataformas corporativas com segurança absurda
-- **PROJECT IRONHARD** — Modificações de BIOS e hardware de alto desempenho
-- **DATABASE PHALANX** — Arquiteturas MySQL resilientes e ultra-rápidas
-
-**Status:** Always Ready • Always Watching
-
----
-
-### **COMANDO CENTRAL** 🔒
-
-<div align="center">
-
-![Green Matrix](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-![Tactical](https://media.giphy.com/media/VbnUQp8z2n4Y/giphy.gif)
-
-</div>
-
-**"Eu não compilo código. Eu deployo soluções que sobrevivem a ataques reais."**
-
----
-
-### **CONTATO OPERACIONAL**
-
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SEU_USUARIO)
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="90">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="90">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="90">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="90">
-</div>
-
-**📍 Localização:** Itabira, MG — Brasil  
-**Protocolo:** Ready for Deployment
