@@ -12,8 +12,7 @@ Developing [Ghost Winux Shell](https://github.com/zWendersonBR/ghost-winux-shell
 ---
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zwendersonbr&show_icons=true&locale=en&layout=compact" alt="zwendersonbr" /></p>
-
+<img src="https://streak-stats.demolab.com?user=zwendersonbr&theme=transparent&hide_border=true&side_items_color=555&stroke_color=0078D4" height="150" />
 </div>
 
 <br>
