@@ -3,12 +3,12 @@
 # 0xWENDERSON_DIAS
 **Low-Level Software Developer & Network Systems Engineer**
 
-<br>
+
 
  # // ARSENAL
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,linux,kali,docker,mysql,,GCP,azure,arduino&perline=6" />
 
-<br>
+
 
 # // CORE_PROJECTS
 **[Genesis Winux Shell](https://github.com/zWendersonBR/genesis-winux-shell)** — System Interface Architecture  
