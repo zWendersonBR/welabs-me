@@ -7,7 +7,7 @@
 
  # // ARSENAL
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,asm,linux,docker,mysql,mssql,azure,arduino&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,asm,linux,kali,docker,mysql,mssql,GCP,azure,arduino&perline=6" />
 </p>
 
 <br>
