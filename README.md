@@ -2,8 +2,7 @@
 
 #### A Low-Level Developer by day ☼ and a Hardware Modder by night ☾
 
-Developing [Genesis Winux Shell](https://github.com/zWendersonBR/genesis-winux-shell);<br>
-Managing [Aether Network](https://github.com/zWendersonBR) Infrastructure;<br>
+Developing [Genesis Winux Shell](https://github.com/zWendersonBR/ghost-winux-shell);<br>
 
 - ⚙️ I use daily: `.cpp`, `.c`, `.cs`, `.asm`,  `.sh`, `.bin`, `.hex`, `.bin`, `.dll`,
 - 🌍 I'm mostly active within **Systems Programming** & **Hardware Modding**
