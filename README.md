@@ -13,7 +13,7 @@
 
 ### // TECH_STACK
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,asm,dotnet,linux,windows,arduino,bash,mysql&perline=5" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,kali,dotnet,linux,windows,arduino,bash,mysql&perline=5" />
 </p>
 
 <br>
