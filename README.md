@@ -2,25 +2,15 @@
 
 ![Frutiger Aero Header](https://media.giphy.com/media/3o7btPCcdH2hK0g0y4/giphy.gif)
 
-# 🌊✨ **Wenderson** ✨🌊
-**Low Level Wizard | Frutiger Aero Edition** 💿🪟
-
-![Vista Aero](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+#  **Wenderson** 
 
 **"Eu não programo... eu invoco sistemas do hardware."**
 
-</div>
-
----
-
-### 🪟 **Bem-vindo ao meu mundo glossy!** 🫧🐟
-
-<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="140" align="right">
 
 Olá! Sou **Wenderson**, desenvolvedor de sistemas low-level com alma dos anos 2000.  
 Aqui você vai encontrar código que conversa diretamente com o hardware, sistemas operacionais feitos do zero e segurança que faria o Windows Vista corar de inveja.
 
-### 💻 **Minhas Skills (Modo Aero Ativado)**
+### 💻 **Minhas Skills**
 
 ![Terminal Glow](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
