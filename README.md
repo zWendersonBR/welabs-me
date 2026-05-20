@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="welabs.m.png" alt="Logo" width="400" />
+  <img src="welabs.me.png" alt="Logo" width="200" />
 </div>
 
 <br>
